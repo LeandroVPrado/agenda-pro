@@ -118,7 +118,7 @@ Clínicas
 Salões
 Prestadores de serviço
 
-<p align="center"> <strong>Desenvolvido por Leandro Vinícius do Prado</strong><br> Desenvolvedor Fullstack • APIs • Sistemas Multi-Tenant </p> 
+<p align="center"> <strong>Desenvolvido por Prado´s Web</strong><br> Desenvolvedor Fullstack • APIs • Sistemas Multi-Tenant </p> 
 
 
 
